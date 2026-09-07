@@ -1,0 +1,6 @@
+{
+  "name": "Donnor Pizza",
+  "description": "Donnor Pizza at Walayat Market, G-13 Islamabad. Fresh, hot and delicious pizza for your next craving.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
